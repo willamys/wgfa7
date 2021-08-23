@@ -15,5 +15,5 @@ Sou amante da tecnologia e de desenvolver algo usável pelas pessoas. Sintam-se 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=willamys&theme=dark&show_icons=true&locale=en" alt="willamys" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=willamys&theme=dark&show_icons=true&locale=en&layout=compact" alt="willamys" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willamys&theme=dark&show_icons=true" alt="willamys" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=willamys&theme=dark&show_icons=true" alt="willamys" />
 
