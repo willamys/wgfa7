@@ -1,4 +1,4 @@
-<h1>OI 👋, Eu sou Willamys Araújo</h1>
+<h1>Oi 👋, meu nome é Willamys Araújo</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willamys&label=Profile%20views&color=0e75b6&style=flat" alt="willamys" /> </p>
 
